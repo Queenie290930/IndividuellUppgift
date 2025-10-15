@@ -1,0 +1,12 @@
+Kaffe:29.50:12
+Daim:15.90:12
+Nalle:149.00:25
+Mugg:75.50:25
+Chips:25.90:12
+Yoghurt:12.50:12
+Godis:8.90:12
+Läsk:18.50:12
+Smörgås:45.00:12
+Choklad:22.00:25
+Nutella:49.40:12
+Äpple:3.20:12
