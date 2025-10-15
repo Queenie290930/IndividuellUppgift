@@ -1,7 +1,7 @@
 
 # Individuell Uppgift – Beginner-Friendly Cash Register System
 
-<img width="997" height="795" alt="Skärmavbild 2025-10-15 kl  20 52 18" src="https://github.com/user-attachments/assets/e2b22dc3-4387-4308-8dd4-e4b6c799940a" />
+<img width="700" height="498" alt="Skärmavbild 2025-10-15 kl  20 52 18" src="https://github.com/user-attachments/assets/e2b22dc3-4387-4308-8dd4-e4b6c799940a" />
 
 
 This is a simple Java project for managing products and receipts, with a graphical user interface (GUI). It is perfect for beginners who want to learn Java and see how a real world program works. You can test, click, and explore without breaking anything!
