@@ -1,5 +1,5 @@
 
-# Individuell Uppgift – Beginner-Friendly Cash Register System
+# Beginner-Friendly Cash Register System
 
 <img width="700" height="490" alt="Skärmavbild 2025-10-15 kl  20 52 18" src="https://github.com/user-attachments/assets/e2b22dc3-4387-4308-8dd4-e4b6c799940a" />
 
